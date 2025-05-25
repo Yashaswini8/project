@@ -1,4 +1,6 @@
 # Project Responsive Web Design using Bootstrap
+# Name:Yashaswini.S
+# Reg No: 212224220123
 # Date:21-05-2025
 # AIM:
 To create a simplified clone of Dribbble (https://dribbble.com/) landing page.
